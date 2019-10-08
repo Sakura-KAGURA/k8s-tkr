@@ -8,4 +8,5 @@
   kubectl run hello-world --image=hello-world -it --restart=Never
   ```
 1. コントローラによるポッドの実行
+  kubectl run hello-world --image=hello-world
 1. ジョブによるポッドの実行
