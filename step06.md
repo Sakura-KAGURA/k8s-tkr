@@ -7,7 +7,5 @@ kubectl get node
 ```
 kubectl run hello-world --image=hello-world -it --restart=Never
 ```
-
 1. コントローラによるポッドの実行
-
 1. ジョブによるポッドの実行
